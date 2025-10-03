@@ -1,0 +1,19 @@
+body {
+  font-family: 'Garamond';
+  background: #c3f6f9;
+  color: black;
+  margin: 90px;
+}
+
+header {
+    color: #192f79;
+}
+
+a {
+  background-color: aquamarine;
+  color: blue;
+}
+
+a:hover {
+  text-decoration: underline;
+}
